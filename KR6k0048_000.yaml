@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6k0048/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 尼羯磨
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T40/T40n1810.xml
+    old_id: T40n1810
+hash: sha256:01e6cbe24106d740f9abbaa651eeb4ae24c805c9abded52931fabcc7eacc9950

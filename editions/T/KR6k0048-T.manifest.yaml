@@ -1,0 +1,242 @@
+canonical_identifier: bkk:krp/KR6k0048/T/v1
+canonical_location: https://kanripo.org/bkk/KR6k0048/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 尼羯磨
+  identifiers:
+    krp: KR6k0048
+    cbeta: T40n1810
+    cbeta_old_id: T40n1810
+    authorityid: CA0002348
+    json_key: T1810
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T40/T40n1810.xml
+    old_id: T40n1810
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6k0048_000-T.yaml, hash: 'sha256:01e6cbe24106d740f9abbaa651eeb4ae24c805c9abded52931fabcc7eacc9950'}
+  - {seq: 1, filename: KR6k0048_001-T.yaml, hash: 'sha256:d5b50a863fe33e9caef71004906f3531df5f8d7953d6cdc0b2a3a5db2ff8a9d9'}
+  - {seq: 2, filename: KR6k0048_002-T.yaml, hash: 'sha256:ab23c2c8296a1bfa13af49ff31d3716e33cdcec09ed935c4f97be9e264fafbcf'}
+  - {seq: 3, filename: KR6k0048_003-T.yaml, hash: 'sha256:c284d683ebcc5826989aa32a6be815c7df2c8198951120450c8839232ed68624'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6k0048_000-T.markers.yaml, hash: 'sha256:5967978f33ac06a100d8eab380dcd8f0747307a71faaaafa0185c8c5f1333a48'}
+  - {seq: 1, role: markers, filename: assets/KR6k0048_001-T.markers.yaml, hash: 'sha256:af7bc7d32be148a9d1df8db764cf74a37cd2c15b93e3d5ef0ef47219319a7b9f'}
+  - {seq: 2, role: markers, filename: assets/KR6k0048_002-T.markers.yaml, hash: 'sha256:85e8f4e004b0ba134c59f2739b35c6fffd658c73eb6baa3af4b72c46bf89ac34'}
+  - {seq: 3, role: markers, filename: assets/KR6k0048_003-T.markers.yaml, hash: 'sha256:9b4cbd5e4acf2032885e7ddaf3e9c1a21bbed5baab8d1aa6e36d1dc215b34e71'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6k0048_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 15539
+  label: 尼羯磨卷上并序　出《四分律》
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0048_T_001-mulu-1
+    span:
+    - body
+    - 9
+    - 9
+  label: 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0048_T_001-mulu-2
+    span:
+    - body
+    - 367
+    - 367
+  label: 1 方便篇(上)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0048_T_001-mulu-3
+    span:
+    - body
+    - 1353
+    - 1353
+  label: 2 結界篇(上)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0048_T_001-mulu-4
+    span:
+    - body
+    - 3951
+    - 3951
+  label: 3 授戒篇(上)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0048_T_001-mulu-5
+    span:
+    - body
+    - 10185
+    - 10185
+  label: 4 師資篇(上)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0048_T_001-mulu-6
+    span:
+    - body
+    - 11367
+    - 11367
+  label: 5 說戒篇(上)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0048_T_001-mulu-7
+    span:
+    - body
+    - 12943
+    - 12943
+  label: 6 安居篇(上)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0048_T_001-mulu-8
+    span:
+    - body
+    - 13228
+    - 13228
+  label: 7 受日篇(上)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0048_T_001-mulu-9
+    span:
+    - body
+    - 13514
+    - 13514
+  label: 8 自恣篇(上)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0048_T_001-mulu-10
+    span:
+    - body
+    - 14791
+    - 14791
+  label: 9 衣鉢藥受淨篇(上)
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0048_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 14751
+  label: 尼羯磨卷中出《四分律》
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0048_T_002-mulu-1
+    span:
+    - body
+    - 9
+    - 9
+  label: 10 攝物篇(中)
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0048_T_002-mulu-2
+    span:
+    - body
+    - 2282
+    - 2282
+  label: 11 德衣篇(中)
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0048_T_002-mulu-3
+    span:
+    - body
+    - 3136
+    - 3136
+  label: 12 除罪篇(中)
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0048_T_002-mulu-4
+    span:
+    - body
+    - 11368
+    - 11368
+  label: 13 治人篇(中)
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6k0048_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 11840
+  label: 尼羯磨卷下出《四分律》
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6k0048_T_003-mulu-1
+    span:
+    - body
+    - 9
+    - 9
+  label: 14 設諫篇(下)
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6k0048_T_003-mulu-2
+    span:
+    - body
+    - 2523
+    - 2523
+  label: 15 滅諍篇(下)
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6k0048_T_003-mulu-3
+    span:
+    - body
+    - 3604
+    - 3604
+  label: 16 雜行篇(下)
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6k0048_T_003-mulu-4
+    span:
+    - body
+    - 6214
+    - 6214
+  label: 17 修奉篇(下)
+  type: mulu
+  level: 1
+hash: sha256:7880b01d125acb9c0b8c1c42fbecb2a86caea9f99a8f114cc6a4cded4ed1ff7c
